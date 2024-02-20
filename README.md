@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>README: Spectroscopy Prediction Models</title>
+
 </head>
 <body>
 
