@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>README: Spectroscopy Prediction Models</title>
+  
 </head>
 <body>
 
