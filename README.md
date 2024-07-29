@@ -5,7 +5,7 @@
 </head>
 <body>
 <p align="center">
-  <img src="IR2.jpg" width="500" height="500" />
+  <img src="IR3.jpg" width="500" height="500" />
 </p>
 
 
