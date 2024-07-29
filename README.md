@@ -4,7 +4,10 @@
   
 </head>
 <body>
-<div style="text-align: center;"><img src="IR2.jpg" width="500" height="500" /></div>
+<p align="center">
+  <img src="IR2.jpg" width="500" height="500" />
+</p>
+
 
 
 <h1>README: Spectroscopy Prediction Models</h1>
