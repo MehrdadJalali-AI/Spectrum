@@ -4,6 +4,7 @@
   
 </head>
 <body>
+<img src="IR2.jpg" width="500" height="500" />
 
 <h1>README: Spectroscopy Prediction Models</h1>
 
