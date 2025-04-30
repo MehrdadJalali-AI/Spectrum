@@ -5,7 +5,7 @@
 </head>
 <body>
 <p align="center">
-  <img src="SP1.png" width="700" height="500" />
+  <img src="SP2.png" width="700" height="500" />
 </p>
 
 
